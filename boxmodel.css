@@ -44,7 +44,11 @@
     align-items: center;
     font-size: 30px;
     color: white;
+    
 
+}
+.three:hover{
+    transform: scale(1.1);
 }
 .four{
     background-color: rgb(86, 12, 135);
@@ -63,4 +67,28 @@
    
 
 
+}
+.five{
+    background-color: rgb(95, 237, 39);
+    width: 80%;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: ;
+    font-size: 30px;
+    color: white;
+}
+.six{
+    background-color: rgb(237, 39, 69);
+    width: 60%;
+    height: 300px;
+    float: left;
+    margin: 0px 2px 2px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: ;
+    font-size: 30px;
+    color: white;
 }

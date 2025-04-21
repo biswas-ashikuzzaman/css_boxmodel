@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one{
+   height: 500px;
+    border: 2px;
+    background-color: darkgrey;
+    width: 500px;
+    margin: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+.two{
+    height: 400px;
+    border: 2px;
+    background-color: rgb(25, 207, 235);
+    width: 400px;
+    margin: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+.three{
+    height: 300px;
+    border: 2px;
+    background-color: rgb(172, 209, 26);
+    width: 300px;
+    margin: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3em;
+}
